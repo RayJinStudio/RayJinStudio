@@ -1,17 +1,29 @@
-### Hi there 👋
 
-💬 Ask me about ...
-<!--
-**RayJinStudio/RayJinStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align='center'>
+  Hi there 👋 I'm Ray 👨‍💻
+</h1>
 
-Here are some ideas to get you started:
+<p align='center'>
+  
+  <a href="mailto:ray-jin@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RayJinStudio&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  🎓 支持的开发语言<br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Java-00ADD8?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+</p>
+
+
+<p align='center'>
+  📫 对我的开源项目有任何意见可以在对应项目下添加ISSUE
+</p>
